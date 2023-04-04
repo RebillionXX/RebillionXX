@@ -3,9 +3,7 @@
   <img src="https://discord.c99.nl/widget/theme-3/947758500912701440.png">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RebillionXX&show_icons=true&theme=radical">
-</p>
+![](https://github-stats-alpha.vercel.app/api?username=RebillionXX&cc=000&tc=fff&ic=fff&bc=000)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RebillionXX&theme=discord&no-frame=false&no-bg=true&margin-w=4)
